@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" role="img" aria-label="Right Space Interiors & Furniture">
+  <!-- Arch mark -->
+  <g fill="none" stroke="#2F3528" stroke-width="4">
+    <path d="M118 66 V30 a34 34 0 0 1 68 0 V66" />
+    <path d="M132 66 V34 a20 20 0 0 1 40 0 V66" />
+  </g>
+  <!-- L block -->
+  <g fill="#C46B3C">
+    <rect x="150" y="24" width="12" height="42"/>
+    <rect x="150" y="54" width="40" height="12"/>
+  </g>
+  <line x1="118" y1="70" x2="190" y2="70" stroke="#C46B3C" stroke-width="4"/>
+  <!-- Wordmark -->
+  <text x="230" y="108" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="600">
+    <tspan fill="#2F3528">Right</tspan><tspan fill="#C46B3C">Space</tspan>
+  </text>
+  <text x="230" y="136" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="5" fill="#C46B3C">INTERIORS &amp; FURNITURE</text>
+</svg>
